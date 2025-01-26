@@ -1,4 +1,6 @@
-## Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=u149_cinderella)](https://solved.ac/u149_cinderella/)
+</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minami-kotori-chan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **minami-kotori-chan/minami-kotori-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
