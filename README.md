@@ -1,9 +1,16 @@
+<div align='center'>
+  <h1>🎀  𝓊𝟣𝟦𝟫_𝒸𝒾𝓃𝒹𝑒𝓇𝑒𝓁𝓁𝒶  🎀</h1>
+</div>
+</br>
+<div align='center'>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=u149_cinderella)](https://solved.ac/u149_cinderella/)
 </br>
 </br>
 [![CodeForces Profile](https://cf.leed.at?id=u149_cinderella)](https://codeforces.com/profile/u149_cinderella)
 </br>
 </br>
+</div>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minami-kotori-chan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
