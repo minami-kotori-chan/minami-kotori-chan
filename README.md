@@ -2,9 +2,11 @@
   <h1>🎀  𝓊𝟣𝟦𝟫_𝒸𝒾𝓃𝒹𝑒𝓇𝑒𝓁𝓁𝒶  🎀</h1>
 </div>
 </br>
-<div align='center'>
-  <img src=./img.jpg>
-</div>
+<a href="https://youtu.be/7hOZPtgp6_A" target="_blank">
+  <div align='center'>
+    <img src=./img.jpg>
+  </div>
+</a>
 </br>
 <div align='center'>
 
