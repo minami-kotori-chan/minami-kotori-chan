@@ -16,7 +16,7 @@
 [![CodeForces Profile](https://cf.leed.at?id=u149_cinderella)](https://codeforces.com/profile/u149_cinderella)
 </br>
 </br>
-[![Atcoder Profile](https://atcoder-badge.kro.kr?id=u149_cinderella)](https://atcoder.jp/users/u_149_cinderella)
+[![Atcoder Profile](https://atcoder-badge.kro.kr?id=u149_cinderella)](https://atcoder.jp/users/u149_cinderella)
 </br>
 </br>
 </div>
