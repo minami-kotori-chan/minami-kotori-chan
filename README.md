@@ -2,21 +2,21 @@
   <h1>🎀  𝓊𝟣𝟦𝟫_𝒸𝒾𝓃𝒹𝑒𝓇𝑒𝓁𝓁𝒶  🎀</h1>
 </div>
 </br>
-<a href="https://youtu.be/7hOZPtgp6_A" target="_blank">
+<!--<a href="https://youtu.be/7hOZPtgp6_A" target="_blank">
   <div align='center'>
     <img src=./img.jpg>
   </div>
-</a>
+</a>-->
 </br>
 <div align='center'>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=u149_cinderella)](https://solved.ac/u149_cinderella/)
 </br>
 </br>
-[![CodeForces Profile](https://cf.leed.at?id=u149_cinderella)](https://codeforces.com/profile/u149_cinderella)
+<!--[![CodeForces Profile](https://cf.leed.at?id=u149_cinderella)](https://codeforces.com/profile/u149_cinderella)-->
 </br>
 </br>
-[![Atcoder Profile](https://atcoder-badge.kro.kr?id=u149_cinderella)](https://atcoder.jp/users/u149_cinderella)
+<!--[![Atcoder Profile](https://atcoder-badge.kro.kr?id=u149_cinderella)](https://atcoder.jp/users/u149_cinderella)-->
 </br>
 </br>
 </div>
